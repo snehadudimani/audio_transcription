@@ -1,9 +1,13 @@
 Audio-transcription
+
+
 Title: Revolutionizing Audio Content Management: Automated Transcription, Summarization, and Timestamp Extraction with FastAPI
 
-Introduction: In today's digital age, the volume of audio content being generated is unprecedented. From podcasts and interviews to lectures and conference calls, audio files are a rich source of information. However, manually transcribing, summarizing, and extracting key insights from these audio recordings can be time-consuming and labor-intensive. To address this challenge, our project aims to develop a comprehensive system that automates the process of managing audio content. Leveraging cutting-edge technologies such as FastAPI, our system will enable users to effortlessly transcribe audio files, generate concise summaries, and extract timestamps for key events or changes in content.
+Introduction: 
+In today's digital age, the volume of audio content being generated is unprecedented. From podcasts and interviews to lectures and conference calls, audio files are a rich source of information. However, manually transcribing, summarizing, and extracting key insights from these audio recordings can be time-consuming and labor-intensive. To address this challenge, our project aims to develop a comprehensive system that automates the process of managing audio content. Leveraging cutting-edge technologies such as FastAPI, our system will enable users to effortlessly transcribe audio files, generate concise summaries, and extract timestamps for key events or changes in content.
 
-Problem Statement: The sheer volume of audio content being produced presents a significant challenge for organizations and individuals seeking to extract valuable insights from their recordings. Manual transcription and summarization processes are not only time-consuming but also prone to errors. Furthermore, identifying specific sections or key events within lengthy audio files can be a daunting task. Our project seeks to address these challenges by developing an automated solution that streamlines the process of managing audio content.
+Problem Statement:
+The sheer volume of audio content being produced presents a significant challenge for organizations and individuals seeking to extract valuable insights from their recordings. Manual transcription and summarization processes are not only time-consuming but also prone to errors. Furthermore, identifying specific sections or key events within lengthy audio files can be a daunting task. Our project seeks to address these challenges by developing an automated solution that streamlines the process of managing audio content.
 
 Objectives:
 
@@ -15,7 +19,12 @@ File Upload: Users can upload audio files of various formats through a web-based
 
 Technologies Used:
 
-FastAPI: A modern web framework for building APIs with Python, known for its performance, scalability, and asynchronous capabilities. Speech Recognition: Python library for performing speech recognition, enabling the transcription of audio files into text. Hugging Face Transformers: State-of-the-art natural language processing (NLP) library for fine-tuning and deploying transformer models for tasks such as summarization. Pydub: Python library for audio manipulation, used for converting audio file formats and extracting timestamps. HTML/CSS/JavaScript: Frontend technologies for designing and implementing the user interface. Docker: Containerization technology for packaging the application and its dependencies, ensuring consistency across different environments.
+FastAPI: A modern web framework for building APIs with Python, known for its performance, scalability, and asynchronous capabilities. Speech Recognition: Python library for performing speech recognition, enabling the transcription of audio files into text. 
+Hugging Face Transformers: State-of-the-art natural language processing (NLP) library for fine-tuning and deploying transformer models for tasks such as summarization. 
+
+Pydub: Python library for audio manipulation, used for converting audio file formats and extracting timestamps. HTML/CSS/JavaScript: Frontend technologies for designing and implementing the user interface. Docker: Containerization technology for packaging the application and its dependencies, ensuring consistency across different environments.
+
+HTML/CSS/JavaScript: Frontend technologies for designing and implementing the user interface.
 
 Conclusion:
 
